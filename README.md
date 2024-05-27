@@ -9,7 +9,7 @@
 
 
 ### Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wj-code-mania&theme=onedark)](https://github.com/itloverman/github-profile)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wj-code-mania&theme=onedark)](https://github.com/wahahayay/github-profile)
 
 
 
